@@ -1,0 +1,15 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = azurestorage
+build_property.ProjectDir = c:\Users\mateo\Documents\AZ-204-en-Espa-ol-Gu-as-Laboratorios-y-Preguntas-de-Pr-ctica\Microsoft-Azure-AZ-204-Laboratorios_Practicos\allfiles\labs\dotnet\azure-storage\01-blob-storage-resources-dotnet\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

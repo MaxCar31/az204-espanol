@@ -1,0 +1,5 @@
+C:\Users\mateo\OneDrive\Archivos Personales\Documents\Azure\mslearn-azure-developer\allfiles\labs\dotnet\azure-storage\01-blob-storage-resources-dotnet\obj\Debug\net8.0\azurestorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Archivos Personales\Documents\Azure\mslearn-azure-developer\allfiles\labs\dotnet\azure-storage\01-blob-storage-resources-dotnet\obj\Debug\net8.0\azurestorage.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Archivos Personales\Documents\Azure\mslearn-azure-developer\allfiles\labs\dotnet\azure-storage\01-blob-storage-resources-dotnet\obj\Debug\net8.0\azurestorage.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Archivos Personales\Documents\Azure\mslearn-azure-developer\allfiles\labs\dotnet\azure-storage\01-blob-storage-resources-dotnet\obj\Debug\net8.0\azurestorage.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Archivos Personales\Documents\Azure\mslearn-azure-developer\allfiles\labs\dotnet\azure-storage\01-blob-storage-resources-dotnet\obj\Debug\net8.0\azurestorage.sourcelink.json
