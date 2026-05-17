@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azurestorage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a55725bb48afede8f8083f25920628ec041de53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa8eba3620c9c4b89d6a7e230c071498b6d61ae3")]
 [assembly: System.Reflection.AssemblyProductAttribute("azurestorage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azurestorage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
