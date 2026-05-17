@@ -1,0 +1,11 @@
+# Ignore environment and local settings files
+.env
+**/.env
+local.settings.json
+
+# Common ignores
+node_modules/
+bin/
+obj/
+.vs/
+.DS_Store
